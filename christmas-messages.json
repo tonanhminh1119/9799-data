@@ -1,0 +1,48 @@
+﻿{
+  "year": 2024,
+  "generalMessage": "Một năm đã qua với biết bao kỷ niệm đáng nhớ!",
+  "personalMessages": [
+    {
+      "memberId": 1,
+      "greeting": "Chúc CEO Vui Vẻ!",
+      "personalMessage": "Cảm ơn bạn đã dẫn dắt Xí Nghiệp qua bao nhiêu drama và vẫn giữ được tinh thần 'We Don't Work, We Vibe'. Năm mới chúc bạn ít stress hơn, nhiều vacation hơn!",
+      "highlights": [
+        "🏆 Tổ chức 5+ events thành công",
+        "🎭 Giải quyết 100+ drama tickets",
+        "✈️ Lead 3 chuyến du lịch",
+        "🎯 Maintain 99.9% vibes uptime"
+      ],
+      "blessing": "Năm 2025: More adventures, less paperwork! 🚀",
+      "funFact": "Số lần nói 'chillax' trong năm: 247 lần",
+      "cardTheme": "blue"
+    },
+    {
+      "memberId": 2,
+      "greeting": "Chúc Drama Queen Hạnh Phúc!",
+      "personalMessage": "Không ai có thể tạo drama và resolve drama nhanh như bạn! Cảm ơn vì đã làm cuộc sống nhóm thêm... colorful. Năm mới chúc bạn drama level giảm 50% (nhưng không xuống 0 vì sẽ nhớ 😅)",
+      "highlights": [
+        "🎭 Generated 156 drama points",
+        "💬 Most messages in group chat",
+        "📸 Best photographer award",
+        "🎉 Party starter champion"
+      ],
+      "blessing": "Năm 2025: Keep the energy, lower the drama! ✨",
+      "funFact": "Số tin nhắn gửi trong group: 15,847 messages",
+      "cardTheme": "orange"
+    },
+    {
+      "memberId": 3,
+      "greeting": "Chúc Silent Warrior An Lành!",
+      "personalMessage": "Người ít nói nhất nhưng luôn xuất hiện đúng lúc. Cảm ơn vì đã là trụ cột im lặng của nhóm. Năm mới chúc bạn nhiều peace, ít bị kéo vào drama!",
+      "highlights": [
+        "🤫 Lowest drama involvement rate",
+        "🎯 100% attendance record",
+        "📷 Most photogenic member",
+        "🧘 Zen master of the group"
+      ],
+      "blessing": "Năm 2025: Continue being awesome quietly! 🌟",
+      "funFact": "Tỷ lệ tin nhắn có nội dung: 100%",
+      "cardTheme": "green"
+    }
+  ]
+}

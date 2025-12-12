@@ -1,0 +1,64 @@
+﻿{
+  "events": [
+    {
+      "id": 1,
+      "date": "Tháng 4/2023",
+      "year": "2023",
+      "title": "Chuyến đi đầu tiên",
+      "description": "Không khí lạnh buốt. Những tấm hình tối thui và dàn hậu cần cần mẫn, nhưng kỷ niệm vô giá 🌅",
+      "location": "Đà Lạt",
+      "participants": 8,
+      "imageUrl": "/images/events/dalat.jpg"
+    },
+    {
+      "id": 2,
+      "date": "Tháng 4/2024",
+      "year": "2024",
+      "title": "Cuộc phiêu lưu trên biễn xa",
+      "description": "Chuyến tàu sóng gió, phong cảnh trữ tình. Những trục trặc nhỏ, nhưng cười trước tính sau 😎",
+      "location": "Phú Quý",
+      "participants": 11,
+      "imageUrl": "/images/events/phuquy1.jpg"
+    },
+    {
+      "id": 3,
+      "date": "Tháng 12/2024",
+      "year": "2024",
+      "title": "Giáng Sinh bí mật",
+      "description": "Secret Santa đầu tiên, ai cũng bị troll bởi quà. Nhưng cười nhiều hơn giận 🎅",
+      "location": "Sài Gòn",
+      "participants": 11,
+      "imageUrl": "/images/events/xmas-1.jpg"
+    },
+    {
+      "id": 4,
+      "date": "Tháng x/2024",
+      "year": "2024",
+      "title": "Khởi Đầu Xí Nghiệp",
+      "description": "Lần đầu tiên gọi nhau là '9799'. Từ một group chat ngẫu nhiên đến một xí nghiệp chính hiệu 😎",
+      "location": "Online",
+      "participants": 11,
+      "imageUrl": "/images/events/logo-with-number.jpg"
+    },
+    {
+      "id": 5,
+      "date": "Tháng 11/2025",
+      "year": "2024",
+      "title": "Niềm vui biết trước",
+      "description": "Lễ thành hôn Hoàng và Thụy. Dàng trai đàng gái 😎",
+      "location": "Sài Gòn",
+      "participants": 11,
+      "imageUrl": "/images/events/logo-with-number.jpg"
+    },
+    {
+      "id": 6,
+      "date": "Tháng 12/2025",
+      "year": "2025",
+      "title": "Giáng Sinh & Website Ra Đời",
+      "description": "Quà Giáng sinh năm nay đặc biệt - một website làm bằng code và tình yêu. Cảm ơn vì đã là một phần của 9799 🎁",
+      "location": "Internet",
+      "participants": 11,
+      "imageUrl": null
+    }
+  ]
+}

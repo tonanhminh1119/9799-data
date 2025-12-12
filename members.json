@@ -1,0 +1,104 @@
+﻿{
+  "members": [
+    {
+      "id": 1,
+      "name": "Tôn Anh Minh",
+      "nickname": "Min Xì Pa Rô",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 1",
+      "bio": "Ai hú là tới, ai cần là giúp. Phương châm sống: 'Ăn no, chơi đã, sao cũng được'",
+      "quote": "Life is short, eat dessert first! 🍰",
+      "skills": [
+        "Ăn uống chuyên nghiệp",
+        "Đi đường không sợ lạc, chỉ sợ đi đường vòng",
+        "Du lịch bụi"
+      ],
+      "achievements": [
+        "Đi lạc nhưng vẫn đến đúng giờ",
+        "Hầu như không đến muộn... dưới 30 phút",
+        "Lâu lâu offline một hồi",
+        "Còn đang suy nghĩ ..."
+      ],
+      "stats": {
+        "happiness": 80,
+        "drama": 0,
+        "chill": 80,
+        "productivity": 60
+      },
+      "avatar": "/images/members/minh.jpeg",
+      "mascotColor": "#0D9EFF",
+      "joinDate": "Tháng 8/2023",
+      "funFacts": [
+        "Có thể thức tới 2h sáng để chơi đủ các thể loại trò chơi",
+        "Thích lên xe đi chơi, hứng là đi, một người cũng đi",
+        "Đam mê siu nhơn"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Thị B",
+      "nickname": "B Ngầu",
+      "position": "CFO",
+      "positionFull": "Chief Fun Officer",
+      "bio": "Chuyên organize event và quên không mời người. Nhưng khi mời rồi thì vui lắm!",
+      "quote": "Work hard, play harder, sleep never! 😴",
+      "skills": [
+        "Tổ chức event",
+        "Chụp ảnh aesthetic",
+        "Làm video TikTok"
+      ],
+      "achievements": [
+        "Tổ chức được 10 event mà chưa lần nào đủ người",
+        "Queen of Instagram stories",
+        "Có thể check-in 20 địa điểm trong 1 ngày"
+      ],
+      "stats": {
+        "happiness": 100,
+        "drama": 70,
+        "chill": 40,
+        "productivity": 85
+      },
+      "avatar": "/images/members/minh.jpeg",
+      "mascotColor": "#FFB344",
+      "joinDate": "Tháng 8/2023",
+      "funFacts": [
+        "Uống 5 ly coffee mỗi ngày vẫn buồn ngủ",
+        "Mua đồ nhiều nhưng chỉ mặc 5 bộ",
+        "Có 3000+ ảnh chưa post"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Trần Văn A",
+      "nickname": "B Ngầu",
+      "position": "CFO",
+      "positionFull": "Chief Fun Officer",
+      "bio": "Chuyên organize event và quên không mời người. Nhưng khi mời rồi thì vui lắm!",
+      "quote": "Work hard, play harder, sleep never! 😴",
+      "skills": [
+        "Tổ chức event",
+        "Chụp ảnh aesthetic",
+        "Làm video TikTok"
+      ],
+      "achievements": [
+        "Tổ chức được 10 event mà chưa lần nào đủ người",
+        "Queen of Instagram stories",
+        "Có thể check-in 20 địa điểm trong 1 ngày"
+      ],
+      "stats": {
+        "happiness": 100,
+        "drama": 70,
+        "chill": 40,
+        "productivity": 85
+      },
+      "avatar": "/images/members/minh.jpeg",
+      "mascotColor": "#FFB344",
+      "joinDate": "Tháng 8/2023",
+      "funFacts": [
+        "Uống 5 ly coffee mỗi ngày vẫn buồn ngủ",
+        "Mua đồ nhiều nhưng chỉ mặc 5 bộ",
+        "Có 3000+ ảnh chưa post"
+      ]
+    }
+  ]
+}
