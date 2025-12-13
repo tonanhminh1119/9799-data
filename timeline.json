@@ -44,11 +44,24 @@
       "id": 5,
       "date": "Tháng 11/2025",
       "year": "2024",
-      "title": "Niềm vui biết trước",
-      "description": "Lễ thành hôn Hoàng và Thụy. Dàng trai đàng gái 😎",
+      "title": "💙🧡 Lễ Thành Hôn 💍💍",
+      "description": "Lễ thành hôn Hoàng và Thụy, ngày hội 9799 lên làm NPC 😎",
       "location": "Sài Gòn",
       "participants": 11,
-      "imageUrl": "/images/events/logo-with-number.jpg"
+      "imageUrl": "/images/events/event-5.JPG",
+      "detailContent": "Ngày đại hỉ, ngày hai ngôi sao chính thức cùng tỏa sáng một sân khấu 💙🧡 \nNgày Hoàng Thượng gặp Hoàng Hậu, ngày hai vị chúa tể hợp nhất giang sơn của loài cầm thú 👑👑",
+      "images": [
+        "/images/events/details/event-5-1.JPG",
+        "/images/events/details/event-5-2.JPG",
+        "/images/events/details/event-5-3.JPG",
+        "/images/events/details/event-5-4.JPG",
+        "/images/events/details/event-5-5.JPG",
+        "/images/events/details/event-5-6.JPG",
+        "/images/events/details/event-5-7.JPG",
+        "/images/events/details/event-5-8.JPG",
+        "/images/events/details/event-5-9.JPG",
+        "/images/events/details/event-5-10.JPG"
+      ]
     },
     {
       "id": 6,
