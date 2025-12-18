@@ -6,6 +6,9 @@
       "nickname": "Min Xì Pa Rô",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 1",
+      "avatar": "/images/members/minh.jpeg",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":true,
       "bio": "Ai hú là tới, ai cần là giúp. Phương châm sống: 'Ăn no, chơi đã, sao cũng được'",
       "quote": "Life is short, eat dessert first! 🍰",
       "skills": [
@@ -25,14 +28,112 @@
         "chill": 80,
         "productivity": 60
       },
-      "avatar": "/images/members/minh.jpeg",
-      "mascotColor": "#0D9EFF",
       "joinDate": "Tháng 8/2023",
       "funFacts": [
         "Có thể thức tới 2h sáng để chơi đủ các thể loại trò chơi",
         "Thích lên xe đi chơi, hứng là đi, một người cũng đi",
         "Đam mê siu nhơn"
       ]
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Chí Công",
+      "nickname": "Photographer 📷",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 2",
+      "avatar": "/images/members/cong.jpeg",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
+    },
+    {
+      "id": 3,
+      "name": "Phạm Minh Đức",
+      "nickname": "Mỏ hỗn xì tin 🤬",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 3",
+      "avatar": "/images/members/duc.png",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Trường Giang",
+      "nickname": "Dân Đảo 🌊🌊",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 4",
+      "avatar": "/images/members/giang.png",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
+    },
+    {
+      "id": 5,
+      "name": "Đoàn Lê Thanh Hằng",
+      "nickname": "Mẹ of Tôm Trứng Muối 🦐🦐",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 5",
+      "avatar": "/images/members/hang.jpeg",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
+    },
+    {
+      "id": 6,
+      "name": "Trần Thượng Hoàng",
+      "nickname": "Hotline 🤘🏼",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 6",
+      "avatar": "/images/members/hoang.jpeg",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
+    },
+    {
+      "id": 7,
+      "name": "Phạm Nguyễn Quốc Hùng",
+      "nickname": "Tôm Trứng Muối 🦐🦐",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 7",
+      "avatar": "/images/members/hung.jpeg",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
+    },
+    {
+      "id": 8,
+      "name": "Ngô Thị Tú Mỹ",
+      "nickname": "Mỹ Mỹ",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 8",
+      "avatar": "/images/members/my.jpeg",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
+    },
+    {
+      "id": 9,
+      "name": "Tất Trấn Phong",
+      "nickname": "Phong đã ngủ lúc 11h",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 9",
+      "avatar": "/images/members/phong.jpeg",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
+    },
+    {
+      "id": 10,
+      "name": "Nguyễn Kim Thụy",
+      "nickname": "Thị đã off để đi chữa lành",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 10",
+      "avatar": "/images/members/thuy.jpeg",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
+    },
+    {
+      "id": 11,
+      "name": "Trương Thị Ngọc Tím",
+      "nickname": "Tím Vasaline ☀️",
+      "position": "Nhân viên",
+      "positionFull": "Nô lệ tư bản, cu li số 11",
+      "avatar": "/images/members/tim.jpeg",
+      "mascotColor": "#0D9EFF",
+      "haveDetails":false
     }
   ]
 }
