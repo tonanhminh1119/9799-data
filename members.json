@@ -6,7 +6,7 @@
       "nickname": "Min Xì Pa Rô",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 1",
-      "avatar": "/images/members/minh.jpeg",
+      "avatar": "/images/members/minh.png",
       "mascotColor": "#0D9EFF",
       "haveDetails":true,
       "bio": "Ai hú là tới, ai cần là giúp. Phương châm sống: 'Ăn no, chơi đã, sao cũng được'",
@@ -41,7 +41,7 @@
       "nickname": "Photographer 📷",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 2",
-      "avatar": "/images/members/cong.jpeg",
+      "avatar": "/images/members/cong.png",
       "mascotColor": "#0D9EFF",
       "haveDetails":false
     },
@@ -71,7 +71,7 @@
       "nickname": "Mẹ of Tôm Trứng Muối 🦐🦐",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 5",
-      "avatar": "/images/members/hang.jpeg",
+      "avatar": "/images/members/hang.png",
       "mascotColor": "#0D9EFF",
       "haveDetails":false
     },
@@ -81,7 +81,7 @@
       "nickname": "Hotline 🤘🏼",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 6",
-      "avatar": "/images/members/hoang.jpeg",
+      "avatar": "/images/members/hoang.png",
       "mascotColor": "#0D9EFF",
       "haveDetails":false
     },
@@ -91,7 +91,7 @@
       "nickname": "Tôm Trứng Muối 🦐🦐",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 7",
-      "avatar": "/images/members/hung.jpeg",
+      "avatar": "/images/members/hung.png",
       "mascotColor": "#0D9EFF",
       "haveDetails":false
     },
@@ -101,7 +101,7 @@
       "nickname": "Mỹ Mỹ",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 8",
-      "avatar": "/images/members/my.jpeg",
+      "avatar": "/images/members/my.png",
       "mascotColor": "#0D9EFF",
       "haveDetails":false
     },
@@ -111,7 +111,7 @@
       "nickname": "Phong đã ngủ lúc 11h",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 9",
-      "avatar": "/images/members/phong.jpeg",
+      "avatar": "/images/members/phong.png",
       "mascotColor": "#0D9EFF",
       "haveDetails":false
     },
@@ -121,7 +121,7 @@
       "nickname": "Thị đã off để đi chữa lành",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 10",
-      "avatar": "/images/members/thuy.jpeg",
+      "avatar": "/images/members/thuy.png",
       "mascotColor": "#0D9EFF",
       "haveDetails":false
     },
@@ -131,7 +131,7 @@
       "nickname": "Tím Vasaline ☀️",
       "position": "Nhân viên",
       "positionFull": "Nô lệ tư bản, cu li số 11",
-      "avatar": "/images/members/tim.jpeg",
+      "avatar": "/images/members/tim.png",
       "mascotColor": "#0D9EFF",
       "haveDetails":false
     }
